@@ -1,0 +1,5 @@
+groq 
+pandas 
+sentence-transformers 
+pymupdf
+streamlit
